@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I’m currently 💻 Comp Sci grad student.
+
+
 <!--
 **RuTh-git/RuTh-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
