@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I’m currently 💻 Comp Sci grad student.
+Eager to expand knowledge in emerging market trends.
 
 
 <!--
