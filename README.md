@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hi, I'm Mercy! 👋
 
-I’m currently 💻 Comp Sci grad student.
-Eager to expand knowledge in emerging market trends.
+CS grad student @ SIUE | Ex-SWE @ Accenture | TA @ SIUE
+
+Right now, I’m diving into AI, perception systems, and retrieval-augmented generation. I’ve worked on backend systems, shipped production code, and really enjoy building things that are useful and intuitive.
+
+Outside of tech, I’m usually out on a walk🚶‍♀️, cooking something new🍜, or lost in music🎧.
 
 
 <!--
