@@ -1,5 +1,7 @@
 # Hi, I'm Mercy! 👋
+
 Build.
+
 Outside of tech, I’m usually out on a walk🚶‍♀️, cooking something new🍜, or lost in music🎧.
 
 
