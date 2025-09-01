@@ -1,9 +1,5 @@
 # Hi, I'm Mercy! 👋
-
-CS grad student @ SIUE | Ex-SWE @ Accenture | TA @ SIUE
-
-Right now, I’m diving into AI, perception systems, and retrieval-augmented generation. I’ve worked on backend systems, shipped production code, and really enjoy building things that are useful and intuitive.
-
+Build.
 Outside of tech, I’m usually out on a walk🚶‍♀️, cooking something new🍜, or lost in music🎧.
 
 
